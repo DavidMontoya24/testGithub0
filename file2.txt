@@ -1,0 +1,2 @@
+Modifying nano in file2
+It can be many lines in file
